@@ -1,4 +1,4 @@
-# Sierpinski-Triangle
+# Sierpinski Triangle
 
 An animated Sierpinski triangle drawn point by point with the chaos game.
 
@@ -6,7 +6,7 @@ A pygame window shows a triangle and fills it with points until the Sierpinski f
 
 ## Table of contents
 
-- [Sierpinski-Triangle](#sierpinski-triangle)
+- [Sierpinski Triangle](#sierpinski-triangle)
 	- [Table of contents](#table-of-contents)
 	- [How it works](#how-it-works)
 	- [Tech stack](#tech-stack)
